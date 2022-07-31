@@ -1,4 +1,4 @@
-#APLICACION PARA CONVERTIR DIVISAS 🤑
+𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑 𝐃𝐄 𝐃𝐈𝐕𝐈𝐒𝐀𝐒 🤑
 
 En este aplicativo tendremos hasta 5 opciones para convertir monedas tanto de origen como de 
 destino. 🤠
