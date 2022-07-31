@@ -2,7 +2,7 @@
 
 En este aplicativo tendremos hasta 5 opciones para convertir monedas tanto de origen como de 
 destino. 🤠
-![image](https://user-images.githubusercontent.com/87955476/182043989-d52c17b4-24c5-4ad6-b36e-ef8ed23cc9fe.png)
+![image](https://user-images.githubusercontent.com/87955476/182044194-0bbed2aa-6594-4a98-9895-6c8c21e03507.png)
 
 Cuando seleccionemos nuestra opcion correspondiente se nos mostrara el resultado.
 ![image](https://user-images.githubusercontent.com/87955476/182044066-7fb287f7-edf3-45b9-bb66-19697aa53ee2.png)
